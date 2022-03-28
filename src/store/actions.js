@@ -1,0 +1,11 @@
+
+const actions = {
+    ADD_ITEM: 'ADD_ITEM',
+    REMOVE_ITEM: 'REMOVE_ITEM',
+    INCREASE_AMOUNT: 'INCREASE_AMOUNT',
+    DECREASE_AMOUNT: 'DECREASE_AMOUNT',
+    REMOVE_ITEM: 'REMOVE_ITEM',
+    RESET: 'RESET',
+}
+
+export default actions
